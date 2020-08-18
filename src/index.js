@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './containers/App';
+import GifExpertApp from './containers/GifExpertApp';
 
-ReactDOM.render(<App />, document.getElementById('container'));
+ReactDOM.render(<GifExpertApp />, document.getElementById('container'));

@@ -2,7 +2,8 @@ import React from 'react';
 
 const App = () => (
   <>
-    <h1>Hello Word!</h1>
+    <h2>GifExpertApp</h2>
+    <br />
   </>
 );
 
